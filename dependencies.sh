@@ -1,0 +1,12 @@
+sudo apt-get --assume-yes install gcc
+sudo apt-get --assume-yes install g++
+sudo apt-get --assume-yes install binutils
+sudo apt-get --assume-yes install make
+sudo apt-get --assume-yes install bison
+sudo apt-get --assume-yes install flex
+sudo apt-get --assume-yes install libgmp3-dev
+sudo apt-get --assume-yes install libmpc-dev
+sudo apt-get --assume-yes install libmpfr-dev
+sudo apt-get --assume-yes install texinfo
+sudo apt-get --assume-yes install libcloog-isl-dev
+sudo apt-get --assume-yes install libisl-dev
