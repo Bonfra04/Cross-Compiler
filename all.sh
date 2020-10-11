@@ -1,3 +1,4 @@
+./clean.sh
 ./dependencies.sh
-./get_sources.hs
+./get_source.sh
 ./compile.sh
